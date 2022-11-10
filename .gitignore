@@ -6,4 +6,4 @@ node_modules
 __pycache__
 server/*.png
 server/*.jpg
-*.psd
+*.psd/
